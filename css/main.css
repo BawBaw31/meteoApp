@@ -1,0 +1,43 @@
+.wrong{
+    background-color: red;
+}
+
+.card{
+    margin-top: 20px;
+}
+
+footer{
+    /* position: fixed;
+    bottom: 0px; */
+    position: relative;
+    width: 100%;
+    padding: 20px 0px;
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+footer i{
+    position: absolute;
+    top: 5px;
+    right: 5px;
+    text-align: center;
+    color: white;
+}
+
+footer i:hover{
+    color: red;
+}
+
+.weekDays{
+    min-width: 100px;
+    color: white;
+}
+
+.setFooter{
+    border-top: solid #D6D6D6 1px;
+    background-color: #212529;
+}
+
